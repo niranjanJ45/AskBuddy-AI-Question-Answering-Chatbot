@@ -1,0 +1,6 @@
+Langchain
+langchain-community
+langchain_openai
+langchain_google-genai
+langchain_groq
+streamlit
