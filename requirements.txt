@@ -6,3 +6,5 @@ langchain_groq
 streamlit
 langgraph
 python-dotenv
+langchain-text-splitters
+pypdf
