@@ -1,8 +1,10 @@
 Langchain
 langchain-community
-langchain_openai
+langchain-text-splitters
 langchain_google-genai
 langchain_groq
+fastembed
+pypdf
 streamlit
 langgraph
 python-dotenv
